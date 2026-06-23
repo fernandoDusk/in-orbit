@@ -1,6 +1,6 @@
 # in.orbit — Front-end
 
-Interface web da aplicação **in.orbit**, projeto para cadastro e acompanhamento de metas a serem concluídas durante a semana, desenvolvido durante o NLW Pocket: Javascript da Rocketseat. Este repositório contém o **front-end**, que consome a [API do back-end](#).
+Interface web da aplicação **in.orbit**, projeto para cadastro e acompanhamento de metas a serem concluídas durante a semana, desenvolvido durante o NLW Pocket: Javascript da Rocketseat. Este repositório contém o **front-end**, que consome a [API do back-end](https://github.com/fernandoDusk/in-orbit-back-end.git).
 
 ## 🚀 Tecnologias
 
