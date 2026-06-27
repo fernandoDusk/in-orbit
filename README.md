@@ -46,6 +46,9 @@ npm run dev
 - Marcar uma meta como concluída
 - Acompanhar o progresso visual das metas da semana
 
+https://github.com/user-attachments/assets/bc415442-ccce-40a0-8dee-fa927650fd7b
+
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
